@@ -14,11 +14,7 @@ string zad_3(int n) {
 	
 	if(n == 0) {
 		return "2";
-	}
-	if(n == 1) {
-		return "22";
-	}
-	
+	}	
 	
 	return zad_3(n-1) + "2";
 	
