@@ -10,13 +10,13 @@ void zad_2(int n) {
 	}
 }
 
-string zad_3(int n) {
+int zad_3(int n) {
 	
 	if(n == 0) {
-		return "2";
+		return 2;
 	}	
 	
-	return zad_3(n-1) + "2";
+	return stoi(to_string(zad_3(n-1)) + "2");
 	
 //zad_3(4)	zad_3(3) zad_3(2) zad_3(1) zad_3(0) 
 //	22222			2222		222		22	
@@ -114,4 +114,3 @@ int main()
 		cout << "NIE \n";
 	}
 }
-
