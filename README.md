@@ -1,6 +1,6 @@
-# WDP_PROBNE_ZALICZENIA
+# IntroToProgramming_Exercises
 
-WDP_PROBNE_ZALICZENIA is a repository containing sample assignments for the "Introduction to Programming" course. The solutions in this repository are implemented in C++ and showcase various programming problems and exercises.
+IntroToProgramming_Exercises is a repository containing sample assignments for the "Introduction to Programming" course. The solutions in this repository are implemented in C++ and showcase various programming problems and exercises.
 
 The repository includes:
 - Examples of algorithm implementations.
@@ -13,12 +13,12 @@ To set up the project locally:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/kacper0276/WDP_PROBNE_ZALICZENIA.git
+    git clone https://github.com/kacper0276/IntroToProgramming_Exercises.git
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd WDP_PROBNE_ZALICZENIA
+    cd IntroToProgramming_Exercises
     ```
 
 3. **Compile the C++ code**:
